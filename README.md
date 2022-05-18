@@ -18,3 +18,10 @@ This repository contains the tasks that I completed while working as an intern f
 
 ● Dataset: https://bit.ly/2TK5Xn5
 
+# Libraries used:
+
+1) Pandas
+2) Numpy
+3) matplotlib
+4) seaborn 
+5) warnings
