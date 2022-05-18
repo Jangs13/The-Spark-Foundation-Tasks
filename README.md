@@ -1,12 +1,11 @@
 # The-Spark-Foundation-Tasks
 This repository contains the tasks that I completed while working as an intern for The Sparks Foundation.                                                                                          
-Internship Category - Data Science and Business Analytics
-Internship Duration - 1 Month ( October-2020 )                            
-Internship Type - Work from Home
+● Internship Category - Data Science and Business Analytics
+● Internship Duration - 1 Month ( October-2020 )                            
+● Internship Type - Work from Home
 
-Task that I completed:- 
 
-# Exploratory Data Analysis-Terrorism
+# Task name: Exploratory Data Analysis-Terrorism
 
 ● Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
 
